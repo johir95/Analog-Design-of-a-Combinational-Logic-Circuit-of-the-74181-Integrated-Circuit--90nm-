@@ -44,3 +44,45 @@ ref : 𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘳𝘪𝘨𝘩𝘵𝘰.𝘤𝘰𝘮/
 &nbsp;
 &nbsp;
 &nbsp;
+
+<h2>Schamatic Diagram:</h2>
+
+<img align="[right" alt="Chip Design" width="400" src="https://github.com/johir95/Analog-Design-of-a-Combinational-Logic-Circuit-of-the-74181-Integrated-Circuit--90nm-/blob/main/sch1.png">
+
+&nbsp;
+&nbsp;
+
+<img align="[right" alt="Chip Design" width="400" src="https://github.com/johir95/Analog-Design-of-a-Combinational-Logic-Circuit-of-the-74181-Integrated-Circuit--90nm-/blob/main/sch3.png">
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<h2>Layout Diagram:</h2>
+
+<img align="[right" alt="Chip Design" width="400" src="https://github.com/johir95/Analog-Design-of-a-Combinational-Logic-Circuit-of-the-74181-Integrated-Circuit--90nm-/blob/main/lay1.png">
+
+&nbsp;
+&nbsp;
+
+<img align="[right" alt="Chip Design" width="400" src="https://github.com/johir95/Analog-Design-of-a-Combinational-Logic-Circuit-of-the-74181-Integrated-Circuit--90nm-/blob/main/lay4.png">
+
+&nbsp;
+&nbsp;
+
+
+<h2>Verification:</h2>
+
+<h3>DRC Check:</h3>
+
+<img align="[right" alt="Chip Design" width="400" src="https://github.com/johir95/Analog-Design-of-a-Combinational-Logic-Circuit-of-the-74181-Integrated-Circuit--90nm-/blob/main/DRC.png">
+
+&nbsp;
+&nbsp;
+
+<h3>LVS Check:</h3>
+
+<img align="[right" alt="Chip Design" width="400" src="https://github.com/johir95/Analog-Design-of-a-Combinational-Logic-Circuit-of-the-74181-Integrated-Circuit--90nm-/blob/main/LVS.png">
+
+&nbsp;
+&nbsp;
